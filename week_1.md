@@ -6,54 +6,45 @@ As a second topic, I'm interest in evaluate how the variables above iteract with
 
 ## Codebook selected
 
-Variable: polityscore
-Description: 2009 Democracy score (Polity)
-Overall polity score from the Polity IV dataset, calculated by
-subtracting an autocracy score from a democracy score. The summary
-measure of a country's democratic and free nature. -10 is the lowest
-value, 10 the highest.
-Source: Polity IV Project
+1. **Variable**: polityscore
+    * **Description**: 2009 Democracy score (Polity). Overall polity score from the Polity IV dataset, calculated by subtracting an autocracy score from a democracy score. The summary measure of a country's democratic and free nature. -10 is the lowest value, 10 the highest.
+    * **Source**: Polity IV Project
+<p>
 
-Variable: oilperperson
-Description: 2010 oil Consumption per capita (tonnes per year and person)
-Source: BP
 
-Variable: relectricperperson
-Description: 2008 residential electricity consumption, per person (kWh)
-The amount of residential electricity consumption per person during
-the given year, counted in kilowatt-hours (kWh).
-Source: International Energy Agency
+1. **Variable**: oilperperson
+    * **Description**: 2010 oil Consumption per capita (tonnes per year and person)
+    * **Source**: BP
+<p>
 
-Variable: employrate
-Description: 2007 total employees age 15+ (% of population)
-Percentage of total population, age above 15, that has been employed
-during the given year.
-Source: International Labour Organization
+1. **Variable**: relectricperperson
+    * **Description**: 2008 residential electricity consumption, per person (kWh). The amount of residential electricity consumption per person during the given year, counted in kilowatt-hours (kWh).
+    * **Source**: International Energy Agency
+<p>
 
-Variable: lifeexpectancy
-Description: 2011 life expectancy at birth (years)
-The average number of years a newborn child would live if current
-mortality patterns were to stay the same.
-Source: 1. Human Mortality Database,
-2. World Population Prospects:
-3. Publications and files by
-history prof. James C Riley
-4. Human Lifetable Database
+1. **Variable**: employrate
+    * **Description**: 2007 total employees age 15+ (% of population). Percentage of total population, age above 15, that has been employed during the given year.
+    * **Source**: International Labour Organization
+<p>
 
-Variable: armedforcesrate
-Description: Armed forces personnel (% of total labor force)
-Source: Work Development Indicators
+1. **Variable**: lifeexpectancy
+    * **Description**: 2011 life expectancy at birth (years)
+The average number of years a newborn child would live if current mortality patterns were to stay the same.
+    * **Source**: 1. Human Mortality Database, 2. World Population Prospects, 3. Publications and files byhistory prof. James C Riley, 4. Human Lifetable Database.
+<p>
 
-Variable: urbanrate
-Description: 2008 urban population (% of total)
-Urban population refers to people living in urban areas as defined by
-national statistical offices (calculated using World Bank population
-estimates and urban ratios from the United Nations World Urbanization
-Prospects)
-Source: World Bank
+1. **Variable**: armedforcesrate
+    * **Description**: Armed forces personnel (% of total labor force)
+    * **Source**: Work Development Indicators
+<p>
 
-Variable: femaleemployrate
-Description: 2007 female employees age 15+ (% of population)
-Percentage of female population, age above 15, that has been
-employed during the given year.
-Source: International Labour Organization
+1. **Variable**: urbanrate
+    * **Description**: 2008 urban population (% of total)
+Urban population refers to people living in urban areas as defined by national statistical offices (calculated using World Bank population estimates and urban ratios from the United Nations World Urbanization
+Prospects).
+    * **Source**: World Bank
+<p>
+
+1. **Variable**: femaleemployrate
+    * **Description**: 2007 female employees age 15+ (% of population). Percentage of female population, age above 15, that has been employed during the given year.
+    * **Source**: International Labour Organization.
